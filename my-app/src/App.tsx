@@ -14,21 +14,24 @@ function App() {
         <p>Essa experiência fica melhor com música!</p>
 
         <iframe style={{ margin: 12 }} src="https://open.spotify.com/embed/playlist/4d5JXbDwRESZYDM2Mr758X?utm_source=generator&theme=0" width="60%" height="352" frameBorder="0" allowFullScreen={false} allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+        
+        <img src='./iriri.jpg' alt="Irirenses" width={"60%"} />
+        
         <video src="./Download.mp4" controls />
+        
         <p>
           Esse é somente um dos vídeos que fazem parte da nossa história.
           <br></br>O musical.ly foi uma parte muito importante para a nossa amizade, já que passávamos o dia inteiro lá kkkkkkkkkkkkkkkk
           <br></br>
 
 
-          <img src='./tarsila5.jpg' alt="Tarsila 5" width={"80%"} />
-          <img src='./tarsila1.jpg' alt="Tarsila 1" width={"80%"} />
-          <img src='./tarsila2.jpg' alt="Tarsila 2" width={"80%"} />
-          <img src='./tarsila3.JPG' alt="Tarsila 3" width={"80%"} />
-          <img src='./tarsila4.JPG' alt="Tarsila 4" width={"80%"} />
+          <img src='./tarsila5.jpg' alt="Tarsila 5" width={"60%"} />
+          <img src='./tarsila1.jpg' alt="Tarsila 1" width={"60%"} />
+          <img src='./tarsila2.jpg' alt="Tarsila 2" width={"60%"} />
+          <img src='./tarsila3.JPG' alt="Tarsila 3" width={"60%"} />
+          <img src='./tarsila4.JPG' alt="Tarsila 4" width={"60%"} />
 
-          <p> <img src='./tarsila6.jpg' alt="Tarsila 6" width={"80%"} /> </p>
+          <p> </p>
 
           <br></br> Eu nunca fiz site então se esse ficar estranho me perdoa kkkkkkkk
           <br></br> Vou deixar agora alguns depoimentos dos seus queridos amigos!
@@ -245,7 +248,9 @@ function App() {
             ~Heitor eboy
           </p>
           <br></br>
-
+          
+          <img src='./tarsila6.jpg' alt="Tarsila 6" width={"80%"} /> 
+          
           <img src='./tarsilaheitor.jpg' alt="Tarsila Heitor" width={"60%"} />
 
           <img src='./tarsilaheitor2.JPG' alt="Tarsila Heitor 2" width={"60%"} />
@@ -255,7 +260,6 @@ function App() {
           <img src='./tarsilaheitor4.jpg' alt="Tarsila Heitor 4" width={"60%"} />
 
           
-
 
         </div>
 
