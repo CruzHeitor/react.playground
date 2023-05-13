@@ -14,11 +14,11 @@ function App() {
         <p>Essa experiência fica melhor com música!</p>
 
         <iframe style={{ margin: 12 }} src="https://open.spotify.com/embed/playlist/4d5JXbDwRESZYDM2Mr758X?utm_source=generator&theme=0" width="60%" height="352" frameBorder="0" allowFullScreen={false} allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-        
+
         <img src='./iriri.jpg' alt="Irirenses" width={"60%"} />
-        
+        <br></br>
         <video src="./Download.mp4" controls />
-        
+
         <p>
           Esse é somente um dos vídeos que fazem parte da nossa história.
           <br></br>O musical.ly foi uma parte muito importante para a nossa amizade, já que passávamos o dia inteiro lá kkkkkkkkkkkkkkkk
@@ -199,8 +199,10 @@ function App() {
 
         <div className="row">
           <div className="column">
-            "TEXTOTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO
-            ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREUTEXTO ABREU ABREUU"
+            "Tatiana, Cassiana, Taila, Tailane, Tassiana, Tassiane, Tassia, Tangerina, Chegou seu dia...  ☠️<br></br>
+            Mas nao o dia de morrer, que esse dia nao chegue pra você, Mas sim dia de comemorar a sua existência. Você esta sempre mostrando o quanto você ama meus amigos, todo tipo de demonstração de amor e carinho que pode sair de uma pessoa vem de você, e nada mais justo do que nós te mostrarmos como é se sentir assim. A gente AMA você. Mesmo os nossos sonhos mais profundos que foram frustrados (rip iriri ☠️), você esta no projeto porque você é uma parte essencial da nossa felicidade, eu te juro, você faz parte dos 10% mais nerdolas que nao fede e não é esquisito, mas que acaba sendo um charme na sua personalidade, afinal, sou apaixonado no seu quarto (se quiser trocar de quarto inclusive rssrsrsrs)
+            Nao importa se sao dias semanas meses anos, a vida sempre vai fazer a gnt continuar proximo, e isso é algo que até o menos crente dos ateus acredita, porque seria um mundo muito injusto nao tendo sua amizade por perto. (Um pouco dramático ? Talvez)
+            PARABÉNS PRA VOCÊ, QUE É UMA AMIGA LINDA (nos dois sentidos, uma pessoa Linda e Uma amiga linda), obrigado por fazer parte de nós ❤️ Te amo tatí"
             <br></br>~Abreu
           </div>
 
@@ -212,13 +214,13 @@ function App() {
                 <img src='./tarsilaabreu.jpg' alt="Tarsila Abreu" width={"80%"} />
               </div>
               <div className='side-image'>
-                <img src='./tarsilaalice2.jpg' alt="Tarsila Abreu 2" width={"80%"} />
+                <img src='./tarsilaabreu2.jpg' alt="Tarsila Abreu 2" width={"80%"} />
               </div>
               <div className='side-image'>
-                <img src='./tarsilaalice3.JPG' alt="Tarsila Abreu 3" width={"80%"} />
+                <img src='./tarsilaabreu3.jpg' alt="Tarsila Abreu 3" width={"80%"} />
               </div>
               <div className='side-image'>
-                <img src='./tarsilaalice4.jpg' alt="Tarsila Abreu 4" width={"80%"} />
+                <img src='./tarsilaabreu4.jpg' alt="Tarsila Abreu 4" width={"80%"} />
               </div>
 
             </div>
@@ -248,9 +250,9 @@ function App() {
             ~Heitor eboy
           </p>
           <br></br>
-          
-          <img src='./tarsila6.jpg' alt="Tarsila 6" width={"80%"} /> 
-          
+
+          <img src='./tarsila6.jpg' alt="Tarsila 6" width={"80%"} />
+
           <img src='./tarsilaheitor.jpg' alt="Tarsila Heitor" width={"60%"} />
 
           <img src='./tarsilaheitor2.JPG' alt="Tarsila Heitor 2" width={"60%"} />
@@ -259,7 +261,59 @@ function App() {
 
           <img src='./tarsilaheitor4.jpg' alt="Tarsila Heitor 4" width={"60%"} />
 
-          
+          <img src='./tarsilagatominecraft.jpg' alt="Tarsila Heitor 5" width={"60%"} />
+
+          <br></br>
+
+
+          <h1>Compilado de Memórias</h1>
+          <h2>Te amamos s2</h2>
+
+          <video src="./WhatsApp Video 2023-05-11 at 18.42.56.mp4" controls />
+
+          <br></br>
+
+          <img src='./quadrilatero.jpg' alt="Quadrilatero" width={"80%"} />
+
+          <img src='./quadrilatero2.jpg' alt="Quadrilatero 2" width={"80%"} />
+
+          <img src='./tarsilafanfarra.jpg' alt="Fanfarra" width={"80%"} />
+
+          <img src='./tarsilamateus.jpg' alt="Tarsila Mateus" width={"80%"} />
+
+          <img src='./tarsilapraia.jpg' alt="Tarsila Praia 1" width={"80%"} />
+
+          <img src='./tarsilapraia2.jpg' alt="Tarsila Praia 2" width={"80%"} />
+
+          <img src='./tarsilakid6.jpg' alt="Tarsila Kid 6" width={"80%"} />
+
+
+          <video src="./musicallymyway.mp4" controls />
+
+
+          <img src='./tarsilacama.jpg' alt="Tarsila Cama" width={"80%"} />
+
+          <video src="./musically3.mp4" controls />
+
+          <video src="./musicallybone.mp4" controls />
+
+          <img src='./tarsilakpop.jpg' alt="Tarsila Kpop" width={"80%"} />
+
+          <img src='./tarsilakpopzoom.jpg' alt="Tarsila Kpop Zoom" width={"80%"} />
+
+          <img src='./tarsilaniver.jpg' alt="Tarsila Niver" width={"80%"} />
+
+          <img src='./tarsilaminecraft.png' alt="Tarsila Mine" width={"80%"} />
+
+
+          <br></br>
+          <br></br>
+
+          <p>
+            É isso, espero que tenha gostado! Te amo muito s2
+          </p>
+          <br></br>
+
 
         </div>
 

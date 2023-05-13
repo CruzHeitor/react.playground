@@ -57,6 +57,13 @@
 }
 
 .img-edit {
-  background-color:red;
-  /* float: left; */
+  float: left;
+}
+
+.comp-img {
+  float: center;
+}
+
+.image-edit{
+  float:center;
 }
